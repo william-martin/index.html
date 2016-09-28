@@ -1,0 +1,65 @@
+p {
+	text-align: center;
+	font-weight: 100;
+	color: pink;
+	font-family: ariel;
+
+		
+}
+
+h1 {
+color: pink;
+font-family: 'Lazer84', sans-serif;
+font-weight: 100;
+text-align: center;
+stretch: extended;
+font-size: 75px;
+
+}
+
+h6 {
+	text-align: center;
+	color: red;
+}
+
+p.box {
+	height: 100;
+	width: 450;
+	background-color: #ffffff;
+}
+
+}
+
+img.feature {
+display: block;
+text-align: center;
+margin: 0px auto;
+width: 670;
+height: 400;
+
+}
+
+img.medium {
+display: block;
+text-align: center;
+margin: 0px auto;
+width: 450;
+height: 500;
+}
+img.center-align{
+float: center;	
+}
+
+img.thumbnail{
+text-align: center;
+display: center;
+float: center;
+width:200;
+height:200;	
+}
+
+
+body {
+	background-image: url("Forest.jpg");
+}
+
